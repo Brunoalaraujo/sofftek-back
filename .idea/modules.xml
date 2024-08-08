@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sofftek-back.iml" filepath="$PROJECT_DIR$/sofftek-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softtek-back.iml" filepath="$PROJECT_DIR$/softtek-back.iml" />
     </modules>
   </component>
 </project>

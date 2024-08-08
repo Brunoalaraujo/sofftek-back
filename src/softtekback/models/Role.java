@@ -1,4 +1,4 @@
-package sofftekback.models;
+package softtekback.models;
 
 public enum Role {
     ADMIN,
